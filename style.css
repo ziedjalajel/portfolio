@@ -1,0 +1,41 @@
+.alert{
+    font-size: xxx-large;
+    border-radius: 25px;
+    text-align: center;
+}
+h1{  
+    font-size: xx-large;
+    border-radius: 20px;
+}
+h3{
+    text-align: center; 
+}
+ul{ 
+   text-align: left;
+}
+.greet{
+    font-size: large;
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+.catcat{
+    width: 180px;
+    margin-right:100px;
+}
+.card-header{
+    font-size: x-large;
+}
+.card-title{
+    font-size: x-large;
+}
+.card-body2{
+    align-items: center;
+}
+.card-header2{
+    font-size: x-large;
+}
+img{
+    border-radius: 50%;
+}
